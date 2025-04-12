@@ -1,0 +1,2 @@
+,accuracy,f1_score_macro,precision_macro,recall_macro
+Lsvc Model 25 Multiclass,0.5931015143017386,0.4729908878337918,0.5264114892220269,0.4904390345486125

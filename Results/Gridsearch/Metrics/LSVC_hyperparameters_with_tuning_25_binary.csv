@@ -1,0 +1,2 @@
+,C,max_iter,penalty,tol
+LSVC,1,1000,l2,0.0001

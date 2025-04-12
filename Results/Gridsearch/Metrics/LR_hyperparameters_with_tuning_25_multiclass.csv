@@ -1,0 +1,2 @@
+,C,penalty,solver
+LR,10,l2,lbfgs

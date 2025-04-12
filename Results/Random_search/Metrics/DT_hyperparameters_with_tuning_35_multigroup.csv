@@ -1,0 +1,2 @@
+,min_samples_split,min_samples_leaf,max_depth
+DT,2,2,10

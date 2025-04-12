@@ -1,0 +1,2 @@
+,weights,n_neighbors,metric
+KNN,uniform,5,manhattan
