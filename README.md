@@ -19,7 +19,7 @@ This is a  code repository  for the paper ... .Here we implements a machine lear
 4. Run the script:
 
 ```bash
-git clone https://github.com/your-username/ml-classification-pipeline.git
+Download Repository
 cd ml-classification-pipeline
 pip install -r requirements.txt
 python main_11_binary.py
