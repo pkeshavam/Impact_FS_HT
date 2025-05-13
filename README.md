@@ -9,7 +9,7 @@ We use six Machine Learning algorithms for evaluating our datasets with and with
 ## 🔧 Features
 
 - Supports multiple classifiers: LSVC, Random Forest, Logistic Regression, XGBoost, Decision Tree, KNN
-- Optional hyperparameter tuning using GridSearchCV
+- Optional hyperparameter tuning using GridSearchCV and RandomSearchCV
 - Saves trained models, confusion matrix plots, and evaluation metrics
 - Modular codebase for easy customization and extension
 
@@ -22,7 +22,7 @@ We use six Machine Learning algorithms for evaluating our datasets with and with
 
 ```bash
 Download Repository
-cd ml-classification-pipeline
+cd Impact_FS_HT
 pip install -r requirements.txt
 python main_11_binary.py
 
