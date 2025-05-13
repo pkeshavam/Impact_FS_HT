@@ -1,4 +1,4 @@
-# ML Classification Pipeline
+# Feature Selection and Hyperparameter Tuning
 
 This is a code repository for our study on the impact of Feature Selection and Hyperparameter Tuning for IIoT Attack Detection.
 Using an ensemble of feature selection algorithms, we identify the most relevant features in the Edge-IIoT dataset. Based on the ranking of features thus obtained, we create three distinct datasets. 
