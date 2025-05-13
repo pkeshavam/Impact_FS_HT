@@ -1,12 +1,14 @@
 # ML Classification Pipeline
 
-This is a  code repository  for the paper ... .Here we implements a machine learning classification pipeline for binary and multi-class tasks using various algorithms. It supports both training (with and without hyperparameter tuning), model evaluation using confusion matrices and ROC-AUC, and automatic saving of results.
-
+This is a code repository for our study on the impact of Feature Selection and Hyperparameter Tuning for IIoT Attack Detection.
+Using an ensemble of feature selection algorithms, we identify the most relevant features in the Edge-IIoT dataset. Based on the ranking of features thus obtained, we create three distinct datasets. 
+We then test these three datasets for three classification types - binary, multigroup and multiclass. 
+We use six Machine Learning algorithms for evaluating our datasets with and without hyperparameter tuning. 
 
 
 ## 🔧 Features
 
-- Supports multiple classifiers: SVM, Random Forest, Logistic Regression, XGBoost, Decision Tree, KNN
+- Supports multiple classifiers: LSVC, Random Forest, Logistic Regression, XGBoost, Decision Tree, KNN
 - Optional hyperparameter tuning using GridSearchCV
 - Saves trained models, confusion matrix plots, and evaluation metrics
 - Modular codebase for easy customization and extension
